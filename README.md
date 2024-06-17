@@ -110,7 +110,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <h4><span class="white">★☆★☆★☆ 東京都立大泉高等学校30期卒業生　同期会写真集2 ★☆★☆★☆</span></h4>
 　
 <h3>幹事自ら走り回って撮り集めた画像集です、ダイマ（７組、田川憲司）の力作</h3>
-<h4>開会の言葉。</h4>
+<h4>ダイマ撮影画像。</h4>
 
 <a href="20240617_001.JPG" data-lightbox="abc"><img src="20240617_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240617_002.JPG" data-lightbox="abc"><img src="20240617_002.JPG" alt="サンプル画像" width="900" /></a>
