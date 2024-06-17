@@ -85,7 +85,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2024/06/15 大泉高校、３０期同窓会写真集 !!!</marquee></span></h1>
 <p><a href="https://torokoid.github.io/home">Home</a>><a href="https://torokoid.github.io/oizumi">2019年同期会</a>><a href="https://torokoid.github.io/kanreki">還暦祝い＠池袋</a>><a href="https://torokoid.github.io/shiba">写真集</a>>>><a href="https://torokoid.github.io/oizumi_jigo"><span class="blinking">鹿児島支部情報</span></a>
-	<br>><a href="https://torokoid.github.io/Oizumi_2024/">2024,同期会</a>><a href="https://torokoid.github.io/2024_oizumi_pic/">LINE共有画像</a><a href="https://torokoid.github.io/2024_oizumi_pic2/">写真集</a>>写真集2</p>
+	<br>><a href="https://torokoid.github.io/Oizumi_2024/">2024,同期会</a>><a href="https://torokoid.github.io/2024_oizumi_pic/">LINE共有画像</a>><a href="https://torokoid.github.io/2024_oizumi_pic2/">写真集</a>>写真集2</p>
  
 <!--
 <p class="note">
